@@ -13,7 +13,7 @@ function App() {
       discount: false,
       button: "View options",
       sale: false,
-      rating: false,
+      rating: true,
     },
     {
       productName: "Special Item",
